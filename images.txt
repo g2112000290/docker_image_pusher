@@ -3,3 +3,4 @@ vaultwarden/server:latest
 privoce/vocechat-server:latest
 messense/aliyundrive-webdav:latest
 jeessy/ddns-go:latest
+nginxproxy/acme-companion:latest
